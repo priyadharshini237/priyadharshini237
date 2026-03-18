@@ -12,20 +12,23 @@
 
 ## 🛠️ Skills & Tools
 #### 💻 *Programming & Data Analysis*
--Python
--Pandas
--Numpy
+-🐍 Python
+-🐼 Pandas
+-🔢 Numpy
 
 ### 📊 *Data Visualization*
--Power BI
--Tableau
--Matplotlib
+-📈 Power BI
+-📉 Tableau
+-📊 Matplotlib
 
 ### 🗄*Databases & Tools*
--SQL
--Excel
+-💻 SQL
+-📑 Excel
 
-## Tools i used
+## 🛠️ Tools i used
+<p align="center">
 <img width="100" height="100" src="https://img.icons8.com/clouds/100/python.png" alt="python"/>
+<img width="64" height="64" src="https://img.icons8.com/arcade/64/sql.png" alt="sql"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
 
 
