@@ -10,13 +10,15 @@
 - 🔄 Currently transitioning into the Data Analyst field
 - 📈 Passionate about turning data into meaningful insights
 - 📫 Connect With Me Here
-  
-  <a href="www.linkedin.com/in/priyadharshini2307" target="_blank">
+
+  <p>
+     <a href="www.linkedin.com/in/priyadharshini2307" target="_blank">
   <img width="60" height="60" src="https://img.icons8.com/3d-fluency/60/linkedin--v1.png" alt="linkedin--v1"/>
 </a> 
   <a href="mpriyad23@gmail.com" target="_blank">
   <img width="60" height="60" src="https://img.icons8.com/nolan/60/gmail-new.png" alt="gmail-new"/>
 </a>
+  </p>
 
 ### 🛠️ Skills & Tools
 ##### 💻 *Programming & Data Analysis*
