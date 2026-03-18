@@ -26,9 +26,17 @@
 -📑 Excel
 
 ## 🛠️ Tools i used
-<p align="center">
-<img width="100" height="100" src="https://img.icons8.com/clouds/100/python.png" alt="python"/>
-<img width="64" height="64" src="https://img.icons8.com/arcade/64/sql.png" alt="sql"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/>
+<p>
+<img width="60" height="60" src="https://img.icons8.com/clouds/60/python.png" alt="python"/>
+<img width="60" height="60" src="https://img.icons8.com/arcade/60/sql.png" alt="sql"/>
+<img width="60" height="60" src="https://img.icons8.com/color/60/pandas.png" alt="pandas"/>
+<img width="60" height="60" src="https://img.icons8.com/fluency/60/power-bi-2021.png" alt="power-bi-2021"/>
+<img width="60" height="60" src="https://img.icons8.com/color/60/tableau-software.png" alt="tableau-software"/>
+<img width="60" height="60" src="https://img.icons8.com/doodle/60/microsoft-excel-2019.png" alt="microsoft-excel-2019"/>
+<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm.svg" alt="PyCharm" width="60" height="60"/>
+<img width="60" height="60" src="https://img.icons8.com/color/60/matplotlib.png" alt="matplotlib"/>
+<img width="48" height="48" src="https://img.icons8.com/color/60/numpy.png" alt="numpy"/>
+</p> 
+
 
 
