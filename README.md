@@ -33,7 +33,7 @@
 <img width="60" height="60" src="https://img.icons8.com/fluency/60/power-bi-2021.png" alt="power-bi-2021"/>
 <img width="60" height="60" src="https://img.icons8.com/color/60/tableau-software.png" alt="tableau-software"/>
 <img width="60" height="60" src="https://img.icons8.com/doodle/60/microsoft-excel-2019.png" alt="microsoft-excel-2019"/>
-<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm.svg" alt="PyCharm" width="80" height="80"/>
+<img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm.svg" alt="PyCharm" width="100" height="100"/>
 <img width="60" height="60" src="https://img.icons8.com/color/60/matplotlib.png" alt="matplotlib"/>
 <img width="60" height="60" src="https://img.icons8.com/color/60/numpy.png" alt="numpy"/>
 </p> 
