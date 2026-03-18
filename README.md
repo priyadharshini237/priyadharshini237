@@ -12,7 +12,7 @@
 ### 📫 Connect With Me Here
 
 <p>
-  <a href="[www.linkedin.com/in/priyadharshini2307](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BIqJXAtXAS8e3PX2D3Uzr%2FQ%3D%3D)" target="_blank">
+   <a href="[https://www.linkedin.com/in/priyadharshini2307/]" target="_blank">
     <img width="60" height="60" src="https://img.icons8.com/3d-fluency/60/linkedin--v1.png" alt="linkedin--v1"/>
   </a>
 
