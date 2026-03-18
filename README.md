@@ -9,6 +9,10 @@
 - 💼 5 months experience in Editorial Support at Straive
 - 🔄 Currently transitioning into the Data Analyst field
 - 📈 Passionate about turning data into meaningful insights
+- 📫 Connect With Me Here
+  <a href="www.linkedin.com/in/priyadharshini2307" target="_blank">
+  <img width="60" height="60" src="https://img.icons8.com/3d-fluency/60/linkedin--v1.png" alt="linkedin--v1"/>
+</a>
 
 ### 🛠️ Skills & Tools
 ##### 💻 *Programming & Data Analysis*
@@ -52,11 +56,7 @@
 ### 🎯 Career Goal
 💡 To become a Data Analyst in the IT industry and solve real-world problems using data
 
-### 📫 Connect With Me
-<p>
-  <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/linkedin--v1.png" alt="linkedin--v1"/>
-  <a href="www.linkedin.com/in/priyadharshini2307">My LinkedIn Profile</a>
-</p>
+
 
 
 
