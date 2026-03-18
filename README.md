@@ -9,7 +9,7 @@
 - 💼 5 months experience in Editorial Support at Straive
 - 🔄 Currently transitioning into the Data Analyst field
 - 📈 Passionate about turning data into meaningful insights
-- 📫 Connect With Me Here
+### 📫 Connect With Me Here
 
 <p>
   <a href="www.linkedin.com/in/priyadharshini2307" target="_blank">
