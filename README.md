@@ -20,6 +20,7 @@
     <img width="60" height="60" src="https://img.icons8.com/nolan/60/gmail-new.png" alt="gmail-new"/>
   </a>
 </p>
+---
 
 ### 🛠️ Skills & Tools
 ##### 💻 *Programming & Data Analysis*
