@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi There 👋 I'm Priyadharshini
 
-<!--
-**priyadharshini237/priyadharshini237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>🎓 Master's Graduate in Bioinformatics
+>📊 Aspiring Data Analyst | Transitioning into IT
 
-Here are some ideas to get you started:
+## 🚀 About me
+- 🎓 Completed Master’s in Bioinformatics
+- 🧪 Worked on Drug discovery data analysis in my final year project
+- 💼 5 months experience in Editorial Support at Straive
+- 🔄 Currently transitioning into the Data Analyst field
+- 📈 Passionate about turning data into meaningful insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+#### 💻 *Programming & Data Analysis*
+-Python
+-Pandas
+-Numpy
+
+### 📊 *Data Visualization*
+-Power BI
+-Tableau
+-Matplotlib
+
+### 🗄*Databases & Tools*
+-SQL
+-Excel
+
+
