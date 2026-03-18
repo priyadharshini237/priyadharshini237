@@ -27,7 +27,7 @@
 
 ## 🛠️ Tools i used
 <p>
-<img width="80" height="80" src="https://img.icons8.com/clouds/80/python.png" alt="python"/>
+<img width="80" height="80" src="https://img.icons8.com/clouds/70/python.png" alt="python"/>
 <img width="60" height="60" src="https://img.icons8.com/arcade/60/sql.png" alt="sql"/>
 <img width="60" height="60" src="https://img.icons8.com/color/60/pandas.png" alt="pandas"/>
 <img width="60" height="60" src="https://img.icons8.com/fluency/60/power-bi-2021.png" alt="power-bi-2021"/>
